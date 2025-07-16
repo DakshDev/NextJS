@@ -2,7 +2,7 @@
 
 <br />
 
-## if dont want to use shadcn then remove this dependes
+## if dont want to use shadcn then remove this dependence
 
 1. class-variance-authority
 2. lucide-react
@@ -11,18 +11,23 @@
 
 <br />
 
-## if dont want to use aceternity ui then remove this dependes
+## if dont want to use aceternity ui then remove this dependence
 
 1. clsx
 2. motion
 3. tailwind-merge
 
+## if dont want to use daisy ui then remove this dependence
+
+1. daisyui
+
 <br />
 
-## Installed Frameword / Liberary
+## Installed Framework / Liberary
 
 Nextjs
 Redux-toolkit
 tailwindcss
 shadcn
 aceternity
+daisyui
